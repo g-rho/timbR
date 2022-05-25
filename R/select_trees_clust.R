@@ -15,6 +15,7 @@
 #'   \item{\code{rep.trees}}{\code{ranger} object containing the most representative trees}
 #' @export select_trees_clust
 #'
+#'
 #' @examples
 #' require(ranger)
 #' require(timbR)
